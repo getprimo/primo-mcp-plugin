@@ -3,7 +3,10 @@
   "name": "primo-mcp",
   "version": "0.1.0",
   "description": "Connect Cursor and Grok Bot to Primo's hosted MCP to query and manage an IT fleet (devices, employees, tickets, SaaS, software).",
-  "author": { "name": "Primo", "url": "https://www.getprimo.com" },
+  "author": {
+    "name": "Primo",
+    "url": "https://www.getprimo.com"
+  },
   "homepage": "https://docs.getprimo.com/get-started/primo-mcp-server",
   "repository": "https://github.com/getprimo/primo-mcp-plugin",
   "license": "MIT",
