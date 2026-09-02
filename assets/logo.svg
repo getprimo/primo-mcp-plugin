@@ -1,8 +1,19 @@
-<svg width="32" height="27" viewBox="0 0 32 27" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path fill-rule="evenodd" clip-rule="evenodd" d="M20.7397 0.152267H31.1096L31.0009 0.215066L31.1112 0.152394L25.9262 9.06303L25.9263 3.12333L20.7397 0.152267Z" fill="#68E4FF"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M5.18579 9.06277H15.5557L15.447 9.12553L15.5572 9.0629L10.3723 17.9735L10.3723 12.0338L5.18579 9.06277Z" fill="#68E4FF"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M10.3723 0.152267H20.7422L20.6335 0.215032L20.7437 0.152394L15.5588 9.06303L15.5589 3.12333L10.3723 0.152267Z" fill="#68E4FF"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M15.5564 9.06277H25.9263L25.9261 9.0629L20.7411 17.9735L20.7412 12.0328L15.5564 9.06277Z" fill="#68E4FF"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M10.3723 17.974H20.7422L20.6337 18.0367L20.7437 17.9741L15.5588 26.8848L15.5589 20.9451L10.3723 17.974Z" fill="#68E4FF"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0.152267H10.3699L10.2611 0.215099L10.3714 0.152394L5.18648 9.06303L5.18655 3.12333L0 0.152267Z" fill="#68E4FF"/>
+<svg width="256" height="256" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+<title>Primo</title>
+<defs>
+<linearGradient id="plate" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#362730"/>
+<stop offset="0.5" stop-color="#281826"/>
+<stop offset="1" stop-color="#1F0A19"/>
+</linearGradient>
+</defs>
+<rect width="32" height="32" rx="4" fill="url(#plate)"/>
+<g transform="translate(5.84 7.1705) scale(0.653141)" fill="#68E4FF">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M20.7397 0.152267H31.1096L31.0009 0.215066L31.1112 0.152394L25.9262 9.06303L25.9263 3.12333L20.7397 0.152267Z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.18579 9.06277H15.5557L15.447 9.12553L15.5572 9.0629L10.3723 17.9735L10.3723 12.0338L5.18579 9.06277Z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.3723 0.152267H20.7422L20.6335 0.215032L20.7437 0.152394L15.5588 9.06303L15.5589 3.12333L10.3723 0.152267Z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M15.5564 9.06277H25.9263L25.9261 9.0629L20.7411 17.9735L20.7412 12.0328L15.5564 9.06277Z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.3723 17.974H20.7422L20.6337 18.0367L20.7437 17.9741L15.5588 26.8848L15.5589 20.9451L10.3723 17.974Z"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0.152267H10.3699L10.2611 0.215099L10.3714 0.152394L5.18648 9.06303L5.18655 3.12333L0 0.152267Z"/>
+</g>
 </svg>
